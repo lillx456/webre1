@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <h1><strong><a href="main.html">WEB SITE</a></strong></h1>
+<ul>
+<li><strong><a href="1.html">HTML</a></strong></li>
+<li><strong><a href="2.html">CSS</a></strong></li>
+<li><strong><a href="3.html">Java Script</a></strong></li>
+</ul>
